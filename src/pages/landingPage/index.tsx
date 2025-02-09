@@ -11,7 +11,6 @@ function LandingPage() {
   return (
     <>
       <Hero />
-      <ProductBanner />
       <Services />
       <Faq />
     </>

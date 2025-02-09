@@ -12,10 +12,8 @@ const Home = () => {
   return (
     <div className="container my-5 m-auto">
       <Hero />
-      <Collection />
       <BrowseCategory />
       <MainCategory />
-      <Trending />
       <CustomersPurchased />
     </div>
   );
